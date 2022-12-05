@@ -7,14 +7,14 @@
             <div class="card">
                 <div class="card-header">{{ __('Dashboard') }}</div>
 
-                <div class="card-body">
+                <div class="card-body" style="aligntext:center">
                     @if (session('status'))
                         <div class="alert alert-success" role="alert">
                             {{ session('status') }}
                         </div>
                     @endif
 
-                    {{ __('You are logged in!') }}
+                    <center style="font-size: 30px;"> Examen Final ISW811 - <span style="color: red;">Wilberth José Rojas Arce</span></center>  
                 </div>
             </div>
         </div>
