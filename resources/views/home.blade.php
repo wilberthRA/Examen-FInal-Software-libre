@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    <center style="font-size: 30px;"> Examen Final ISW811 - <span style="color: red;">Wilberth José Rojas Arce</span></center>  
+                    <center style="font-size: 30px; color: Steelblue;"> Examen Final ISW811 - Wilberth José Rojas Arce</center>  
                 </div>
             </div>
         </div>
